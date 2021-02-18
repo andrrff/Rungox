@@ -1,4 +1,6 @@
-# Quickstart
+# Rungox - Roguelike game
+
+## Quickstart
 
 - Clone the repository
 
