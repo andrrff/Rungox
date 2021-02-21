@@ -9,7 +9,7 @@ use amethyst::{
     winit::VirtualKeyCode,
 };
 
-use crate::pause::PauseMenuState;
+use crate::states::pause::PauseMenuState;
 
 /// Main 'Game' state. Actually, it is mostly similar to the ui/main.rs content-wise.
 /// The main differences include the added 'paused' field in the state, which is toggled when

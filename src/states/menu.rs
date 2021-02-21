@@ -6,7 +6,7 @@ use amethyst::{
     winit::VirtualKeyCode,
 };
 
-use crate::{credits::CreditsScreen, game::Game, welcome::WelcomeScreen};
+use crate::{states::credits::CreditsScreen, states::game::Game, states::welcome::WelcomeScreen};
 
 const BUTTON_START: &str = "start";
 const BUTTON_LOAD: &str = "load";
